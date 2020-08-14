@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29721.120
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NfcVehicleParkingAPi", "NfcVehicleParkingAPi\NfcVehicleParkingAPi.csproj", "{D669BAF2-E8CC-411E-BAA3-98E349310DC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NfcVehicleParkingAPi", "NfcVehicleParkingAPi\NfcVehicleParkingAPi.csproj", "{D669BAF2-E8CC-411E-BAA3-98E349310DC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFCHandlerReadWrite", "NFCHandlerReadWrite\NFCHandlerReadWrite.csproj", "{555FED90-9B7F-4976-98B8-08CFD78621AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService", "WorkerService\WorkerService.csproj", "{76FFF6B3-1406-41D3-835B-FA8543F443D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{D669BAF2-E8CC-411E-BAA3-98E349310DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D669BAF2-E8CC-411E-BAA3-98E349310DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D669BAF2-E8CC-411E-BAA3-98E349310DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{555FED90-9B7F-4976-98B8-08CFD78621AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555FED90-9B7F-4976-98B8-08CFD78621AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555FED90-9B7F-4976-98B8-08CFD78621AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555FED90-9B7F-4976-98B8-08CFD78621AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76FFF6B3-1406-41D3-835B-FA8543F443D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FFF6B3-1406-41D3-835B-FA8543F443D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FFF6B3-1406-41D3-835B-FA8543F443D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FFF6B3-1406-41D3-835B-FA8543F443D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

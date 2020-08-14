@@ -16,3 +16,20 @@ D:\AngularApplications\NfcVehicleParkingAPi\NfcVehicleParkingAPi\obj\Debug\netco
 D:\AngularApplications\NfcVehicleParkingAPi\NfcVehicleParkingAPi\bin\Debug\netcoreapp2.2\NfcVehicleParkingAPi.pdb
 D:\AngularApplications\NfcVehicleParkingAPi\NfcVehicleParkingAPi\obj\Debug\netcoreapp2.2\NfcVehicleParkingAPi.dll
 D:\AngularApplications\NfcVehicleParkingAPi\NfcVehicleParkingAPi\obj\Debug\netcoreapp2.2\NfcVehicleParkingAPi.pdb
+F:\Private\NGTS\NFC-Device-IntergrationinAsp.net core\NfcVehicleParkingAPi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\Private\NGTS\NFC-Device-IntergrationinAsp.net core\NfcVehicleParkingAPi\bin\Debug\netcoreapp2.2\appsettings.json
+F:\Private\NGTS\NFC-Device-IntergrationinAsp.net core\NfcVehicleParkingAPi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\Private\NGTS\NFC-Device-IntergrationinAsp.net core\NfcVehicleParkingAPi\bin\Debug\netcoreapp2.2\NfcVehicleParkingAPi.deps.json
+F:\Private\NGTS\NFC-Device-IntergrationinAsp.net core\NfcVehicleParkingAPi\bin\Debug\netcoreapp2.2\NfcVehicleParkingAPi.runtimeconfig.json
+F:\Private\NGTS\NFC-Device-IntergrationinAsp.net core\NfcVehicleParkingAPi\bin\Debug\netcoreapp2.2\NfcVehicleParkingAPi.runtimeconfig.dev.json
+F:\Private\NGTS\NFC-Device-IntergrationinAsp.net core\NfcVehicleParkingAPi\bin\Debug\netcoreapp2.2\NfcVehicleParkingAPi.dll
+F:\Private\NGTS\NFC-Device-IntergrationinAsp.net core\NfcVehicleParkingAPi\bin\Debug\netcoreapp2.2\NfcVehicleParkingAPi.pdb
+F:\Private\NGTS\NFC-Device-IntergrationinAsp.net core\NfcVehicleParkingAPi\obj\Debug\netcoreapp2.2\NfcVehicleParkingAPi.csprojAssemblyReference.cache
+F:\Private\NGTS\NFC-Device-IntergrationinAsp.net core\NfcVehicleParkingAPi\obj\Debug\netcoreapp2.2\NfcVehicleParkingAPi.AssemblyInfoInputs.cache
+F:\Private\NGTS\NFC-Device-IntergrationinAsp.net core\NfcVehicleParkingAPi\obj\Debug\netcoreapp2.2\NfcVehicleParkingAPi.AssemblyInfo.cs
+F:\Private\NGTS\NFC-Device-IntergrationinAsp.net core\NfcVehicleParkingAPi\obj\Debug\netcoreapp2.2\NfcVehicleParkingAPi.RazorAssemblyInfo.cache
+F:\Private\NGTS\NFC-Device-IntergrationinAsp.net core\NfcVehicleParkingAPi\obj\Debug\netcoreapp2.2\NfcVehicleParkingAPi.RazorAssemblyInfo.cs
+F:\Private\NGTS\NFC-Device-IntergrationinAsp.net core\NfcVehicleParkingAPi\obj\Debug\netcoreapp2.2\NfcVehicleParkingAPi.RazorTargetAssemblyInfo.cache
+F:\Private\NGTS\NFC-Device-IntergrationinAsp.net core\NfcVehicleParkingAPi\obj\Debug\netcoreapp2.2\NfcVehicleParkingAPi.dll
+F:\Private\NGTS\NFC-Device-IntergrationinAsp.net core\NfcVehicleParkingAPi\obj\Debug\netcoreapp2.2\NfcVehicleParkingAPi.pdb
+F:\Private\NGTS\NFC-Device-IntergrationinAsp.net core\NfcVehicleParkingAPi\obj\Debug\netcoreapp2.2\NfcVehicleParkingAPi.genruntimeconfig.cache

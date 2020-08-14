@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AngularApplications\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi.csproj": {}
+    "F:\\Private\\NGTS\\NFC-Device-IntergrationinAsp.net core\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi.csproj": {}
   },
   "projects": {
-    "D:\\AngularApplications\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi.csproj": {
+    "F:\\Private\\NGTS\\NFC-Device-IntergrationinAsp.net core\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AngularApplications\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi.csproj",
+        "projectUniqueName": "F:\\Private\\NGTS\\NFC-Device-IntergrationinAsp.net core\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi.csproj",
         "projectName": "NfcVehicleParkingAPi",
-        "projectPath": "D:\\AngularApplications\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi.csproj",
-        "packagesPath": "C:\\Users\\Shahzad\\.nuget\\packages\\",
-        "outputPath": "D:\\AngularApplications\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi\\obj\\",
+        "projectPath": "F:\\Private\\NGTS\\NFC-Device-IntergrationinAsp.net core\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi.csproj",
+        "packagesPath": "C:\\Users\\Abdul Rehman\\.nuget\\packages\\",
+        "outputPath": "F:\\Private\\NGTS\\NFC-Device-IntergrationinAsp.net core\\NfcVehicleParkingAPi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Shahzad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abdul Rehman\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,6 +67,10 @@
               "version": "[2.2.0, )",
               "autoReferenced": true
             },
+            "NdefLibrary": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
             "SendGrid": {
               "target": "Package",
               "version": "[9.10.0, )"
@@ -94,7 +98,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200-preview-014883\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

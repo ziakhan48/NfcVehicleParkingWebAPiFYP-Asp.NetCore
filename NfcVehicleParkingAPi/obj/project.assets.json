@@ -2813,6 +2813,18 @@
           }
         }
       },
+      "NdefLibrary/4.1.0": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/netstandard1.4/NdefLibrary.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.4/NdefLibrary.dll": {}
+        }
+      },
       "NETStandard.Library/2.0.3": {
         "type": "package",
         "dependencies": {
@@ -7899,6 +7911,18 @@
         "runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.xml",
         "useSharedDesignerContext.txt",
         "version.txt"
+      ]
+    },
+    "NdefLibrary/4.1.0": {
+      "sha512": "OKf3bzRcoywOue7NXoGmUXPcdVMJhSocF67bCauwBTe0OTZdKv74vpptBCOfdVsUVDV/PfJ8NMxl3lZMu/tpww==",
+      "type": "package",
+      "path": "ndeflibrary/4.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard1.4/NdefLibrary.dll",
+        "ndeflibrary.4.1.0.nupkg.sha512",
+        "ndeflibrary.nuspec"
       ]
     },
     "NETStandard.Library/2.0.3": {
@@ -13697,6 +13721,7 @@
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
+      "NdefLibrary >= 4.1.0",
       "SendGrid >= 9.10.0",
       "ServiceStack >= 5.9.0",
       "Stripe.net >= 29.0.0",
@@ -13704,19 +13729,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shahzad\\.nuget\\packages\\": {}
+    "C:\\Users\\Abdul Rehman\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AngularApplications\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi.csproj",
+      "projectUniqueName": "F:\\Private\\NGTS\\NFC-Device-IntergrationinAsp.net core\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi.csproj",
       "projectName": "NfcVehicleParkingAPi",
-      "projectPath": "D:\\AngularApplications\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi.csproj",
-      "packagesPath": "C:\\Users\\Shahzad\\.nuget\\packages\\",
-      "outputPath": "D:\\AngularApplications\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi\\obj\\",
+      "projectPath": "F:\\Private\\NGTS\\NFC-Device-IntergrationinAsp.net core\\NfcVehicleParkingAPi\\NfcVehicleParkingAPi.csproj",
+      "packagesPath": "C:\\Users\\Abdul Rehman\\.nuget\\packages\\",
+      "outputPath": "F:\\Private\\NGTS\\NFC-Device-IntergrationinAsp.net core\\NfcVehicleParkingAPi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Shahzad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Abdul Rehman\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13769,6 +13794,10 @@
             "version": "[2.2.0, )",
             "autoReferenced": true
           },
+          "NdefLibrary": {
+            "target": "Package",
+            "version": "[4.1.0, )"
+          },
           "SendGrid": {
             "target": "Package",
             "version": "[9.10.0, )"
@@ -13796,7 +13825,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200-preview-014883\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
